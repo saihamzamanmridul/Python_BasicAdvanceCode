@@ -1,0 +1,3 @@
+print("Hello World")
+enter=input("Enter Any Thing:")
+print(enter)
